@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 Hi, I'm Calvin Rumba</h1>
-<h3 align="center">Full-Stack Engineer • Node.js | TypeScript | Angular | GCP | Firebase</h3>
+<h3 align="center">Full-Stack Engineer • Node.js | TypeScript | Angular | GCP | Firebase | AWS | Java | Kotlin | Swift | React Native</h3>
 
 <p align="center">
   Building resilient fintech and productivity systems — from scalable APIs to polished, data-driven UIs.
@@ -18,17 +18,70 @@
 ---
 
 ### ⚙️ Tech Stack & Tools
+
+<!-- Backend -->
+<h4>🧩 Backend</h4>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/></a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Frontend & Mobile -->
+<h4>📱 Frontend & Mobile</h4>
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
+  </a>
+  <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Multiplatform" width="50" height="50"/>
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Cloud & DevOps -->
+<h4>☁️ Cloud & DevOps</h4>
+<p align="left">
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+  </a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<p align="left">
+  <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
 </p>
 
 ---
