@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/>
+    <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="50" height="50"/>
   </a>
 </p>
 
