@@ -27,12 +27,15 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-   </a>
+  </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/>
   </a>
 </p>
 
@@ -54,6 +57,9 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
   </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
+  </a>
 </p>
 
 <!-- Cloud & DevOps -->
@@ -68,7 +74,7 @@
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   </a>
 </p>
@@ -76,6 +82,9 @@
 <!-- Databases -->
 <h4>🗄️ Databases</h4>
 <p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
   </a>
