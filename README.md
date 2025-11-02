@@ -89,7 +89,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
   </a>
 </p>
 
