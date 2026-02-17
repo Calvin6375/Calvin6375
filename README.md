@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 Hi, I'm Calvin Rumba</h1>
-<h3 align="center">Full-Stack Engineer • Node.js | TypeScript | Angular | GCP | Firebase | AWS | Java | Kotlin | Swift | React Native</h3>
+<h3 align="center">Full-Stack Engineer • Node.js | TypeScript | Angular | GCP | Firebase | AWS | Java | Kotlin | Swift | React Native | C# | Go</h3>
 
 <p align="center">
   Building resilient fintech and productivity systems — from scalable APIs to polished, data-driven UIs.
@@ -12,7 +12,7 @@
 - ☁️ Learning **AWS & GCP architecture** for scalable deployments and automation.  
 - 🤝 Open to collaborate on **backend infrastructure**, **cloud-native**, and **fintech projects**.  
 - 🧠 Passionate about **distributed systems**, **secure APIs**, and **real-time data pipelines**.  
-- 💬 Ask me about **Node.js**, **TypeScript**, **Flutter**, **Spring Boot**, or **Firebase**.  
+- 💬 Ask me about **Node.js**, **TypeScript**, **Flutter**, **Spring Boot**, **C#**, **Go**, or **Firebase**.  
 - 📫 Reach me at **calvinrumba8@gmail.com**
 
 ---
@@ -33,6 +33,12 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="50" height="50"/>
@@ -104,13 +110,36 @@
 - **Frontend:** Angular 18+, TypeScript, NgRx, and PWA offline experiences.  
 - **Cloud & DevOps:** Docker, GitHub Actions, Firebase Functions, GCP App Engine, CI/CD.  
 - **FinTech & Data:** Multi-currency systems, payment flows, and secure transaction auditing.
+- **C# & .NET:** ASP.NET Core APIs, Entity Framework, SignalR, and Azure integrations.  
+- **Go:** High-performance microservices, concurrency patterns, and lightweight HTTP services.
 
 ---
 
 ### 🧠 Current Projects
-- 🪙 **HoneyLedger** – Multi-currency Audit Trail API (Node.js, PostgreSQL, Redis).  
-- 🌐 **HiveDesk** – Real-time dashboard using Angular + Firebase.  
-- ⚙️ **CronLink** – Job scheduling microservice built on BullMQ + GCP.
+- 🔗 **ChainVault** – A decentralized multi-sig wallet built with **Solidity** and **Hardhat**, supporting threshold-based transaction approval, on-chain event logging, and a React + ethers.js frontend.  
+- 💱 **SwapMesh** – A **Uniswap V2-style DEX** smart contract system with custom liquidity pool logic, slippage protection, and an Angular-based trading UI connected via Web3.js.  
+- 🪙 **MintForge** – An **ERC-721 / ERC-1155 NFT minting platform** with on-chain royalty enforcement (EIP-2981), IPFS metadata storage via Pinata, and a Node.js + TypeScript minting API.  
+- 📜 **AuditChain** – A **blockchain-based audit trail system** where financial records are hashed and anchored to Ethereum, with a Solidity verifier contract and a GCP-hosted verification service.
+
+---
+
+### 🔷 C# Projects
+
+- 🏦 **VaultCore API** – A secure banking REST API built with **ASP.NET Core 8** and **Entity Framework Core**, featuring JWT authentication, role-based access control, and full transaction audit logging backed by PostgreSQL.
+
+- 📡 **PulseHub** – A real-time notification service using **ASP.NET Core SignalR**, supporting WebSocket-based event broadcasting across distributed clients with Redis pub/sub as the message broker.
+
+- 📊 **LedgerSync** – A background data reconciliation worker built with **.NET Worker Services** that syncs transaction records between a primary PostgreSQL store and an external accounting API, with retry logic and structured logging via Serilog.
+
+- 🔐 **AuthForge** – A standalone **OAuth 2.0 / OpenID Connect** identity provider built on **ASP.NET Core Identity** and **OpenIddict**, supporting client credentials and authorization code flows for internal microservices.
+
+---
+
+### 🔵 Go Projects
+
+- ⚡ **SwiftGate** – A lightweight **API Gateway** written in Go using the `net/http` and `gorilla/mux` packages, supporting request routing, rate limiting, and JWT validation with near-zero latency overhead.
+
+- 🔄 **StreamBridge** – A high-throughput **Kafka consumer service** in Go that ingests payment events, transforms them, and writes enriched records to PostgreSQL — handling 10k+ events/sec via goroutines and worker pools.
 
 ---
 
@@ -131,5 +160,5 @@
 ---
 
 <p align="center">
-  <i>“Code with clarity. Ship with confidence. Learn without ego.”</i>
+  <i>"Code with clarity. Ship with confidence. Learn without ego."</i>
 </p>
